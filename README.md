@@ -1,4 +1,6 @@
-# Analysis-of-Log-File-Data-to-Understand-Behavior-and-Learning-in-an-Online-Community
+# Draft
 
 ## Resource:
-https://www.cc.gatech.edu/~asb/papers/chapters/
+0. https://www.cc.gatech.edu/~asb/papers/chapters/
+https://github.com/nccgroup/asatools
+
