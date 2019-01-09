@@ -3,7 +3,7 @@
 ## Resource:
 ### GA
 
-0. https://www.cc.gatech.edu/~asb/papers/chapters/
+https://www.cc.gatech.edu/~asb/papers/chapters/
 
 ### SA
 
