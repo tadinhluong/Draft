@@ -5,7 +5,7 @@
 
 https://www.cc.gatech.edu/~asb/papers/chapters/
 
-### SA
+### ASA
 
 https://github.com/nccgroup/asatools
 
@@ -20,4 +20,8 @@ https://www.whitewinterwolf.com/posts/2017/08/28/how-to-install-cisco-adaptative
 
 
 https://www.cisco.com/c/en/us/td/docs/security/asa/asa910/asav/quick-start-book/asav-910-qsg/asav_kvm.html
+
+### Fortinet
+
+https://docs.fortinet.com/fortigate/admin-guides
 
