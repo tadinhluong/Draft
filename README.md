@@ -21,6 +21,8 @@ https://www.whitewinterwolf.com/posts/2017/08/28/how-to-install-cisco-adaptative
 
 https://www.cisco.com/c/en/us/td/docs/security/asa/asa910/asav/quick-start-book/asav-910-qsg/asav_kvm.html
 
+https://www.cisco.com/c/en/us/td/docs/security/wsa/wsa11-5/user_guide/b_WSA_UserGuide_11_5/b_WSA_UserGuide_appendix_010.pdf
+
 ### Fortinet
 
 https://docs.fortinet.com/fortigate/admin-guides
