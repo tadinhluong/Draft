@@ -43,5 +43,7 @@ https://stackoverflow.com/questions/1807179/is-there-any-open-source-command-lin
 
 
 
+https://www.webnms.com/cli/help/cli_quick_tour/cli_architecture_overview.html
+
 
 
