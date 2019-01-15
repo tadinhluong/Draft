@@ -39,6 +39,9 @@ https://geekforum.wordpress.com/2014/01/30/build-clish-command-line-interface-sh
 
 https://www.webnms.com/cli/help/cli_quick_tour/cli_architecture_overview.html#CLIfunct
 
+https://stackoverflow.com/questions/1807179/is-there-any-open-source-command-line-library
+
+
 
 
 
