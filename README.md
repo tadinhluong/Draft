@@ -27,7 +27,9 @@ https://www.cisco.com/c/en/us/td/docs/security/wsa/wsa11-5/user_guide/b_WSA_User
 
 https://docs.fortinet.com/fortigate/admin-guides
 
-### CLI:
+https://help.fortinet.com/fos50hlp/52data/Content/FortiOS/fortigate-system-administration-52/The%20CLI/using_cli.htm
+
+### CLI-github:
 
 https://github.com/dparrish/libcli
 
