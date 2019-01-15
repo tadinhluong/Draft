@@ -37,4 +37,8 @@ https://github.com/iTransformers/ciscoCLI4groovy
 
 https://geekforum.wordpress.com/2014/01/30/build-clish-command-line-interface-shell/
 
+https://www.webnms.com/cli/help/cli_quick_tour/cli_architecture_overview.html#CLIfunct
+
+
+
 
