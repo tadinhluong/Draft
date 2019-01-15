@@ -27,8 +27,12 @@ https://www.cisco.com/c/en/us/td/docs/security/wsa/wsa11-5/user_guide/b_WSA_User
 
 https://docs.fortinet.com/fortigate/admin-guides
 
-### Official:
+### CLI:
 
 https://github.com/dparrish/libcli
 
 https://github.com/iTransformers/ciscoCLI4groovy
+
+https://geekforum.wordpress.com/2014/01/30/build-clish-command-line-interface-shell/
+
+
