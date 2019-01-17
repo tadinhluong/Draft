@@ -1,4 +1,10 @@
 # Draft
+Refs:
+1. A10 Networks WAF, Load Balancer
+2. Arbor Networks
+3. Fortinet
+4. Palo Alto
+5. F5 WAF
 
 ## Resource:
 ### GA
