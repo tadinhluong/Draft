@@ -68,4 +68,10 @@ https://www.boost.org/doc/libs/1_61_0/doc/html/program_options.html
 
 https://code.google.com/p/libcli
 
+# give a try
+
+https://stackoverflow.com/questions/1893440/inspiration-on-how-to-build-a-great-command-line-interface
+
+
+
 
