@@ -68,11 +68,13 @@ https://www.boost.org/doc/libs/1_61_0/doc/html/program_options.html
 
 https://code.google.com/p/libcli
 
-# give a try
+# give it a try
 
 https://stackoverflow.com/questions/1893440/inspiration-on-how-to-build-a-great-command-line-interface
 
 http://vetusware.com/download/IOS%20Source%20Code%2011.2-8/?id=12913
+
+https://hackernoon.com/building-reactive-terminal-interfaces-in-c-d392ce34e649
 
 
 
