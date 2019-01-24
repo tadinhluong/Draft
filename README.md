@@ -79,3 +79,7 @@ https://hackernoon.com/building-reactive-terminal-interfaces-in-c-d392ce34e649
 https://brennan.io/2015/01/16/write-a-shell-in-c/
 
 
+
+https://github.com/shlomosh/libcli
+
+
