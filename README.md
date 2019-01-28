@@ -80,6 +80,7 @@ https://brennan.io/2015/01/16/write-a-shell-in-c/
 
 https://github.com/shlomosh/libcli
 
+http://docs.frrouting.org/projects/dev-guide/en/latest/process-architecture.html
 
 # ISE CISCO CLI
 
