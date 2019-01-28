@@ -78,8 +78,11 @@ https://hackernoon.com/building-reactive-terminal-interfaces-in-c-d392ce34e649
 
 https://brennan.io/2015/01/16/write-a-shell-in-c/
 
-
-
 https://github.com/shlomosh/libcli
+
+
+# ISE CISCO CLI
+
+https://www.cisco.com/c/en/us/td/docs/security/ise/2-0/cli_ref_guide/b_ise_CLIReferenceGuide_20.html
 
 
