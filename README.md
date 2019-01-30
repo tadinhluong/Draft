@@ -95,6 +95,8 @@ https://openmaniak.com/quagga.php
 
 https://cs.uns.edu.ar/~ldm/mypage/data/rc/info/quagga.pdf
 
+https://wiki.gentoo.org/wiki/Quagga
+
 # make comprehension
 
 http://xpt.sourceforge.net/techdocs/nix/tool/make/mk07-Commandautogenconfigure/ar01s02.html
