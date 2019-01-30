@@ -93,8 +93,9 @@ https://www.nongnu.org/quagga/docs/docs-multi/Command-Index.html
 
 https://openmaniak.com/quagga.php
 
+https://cs.uns.edu.ar/~ldm/mypage/data/rc/info/quagga.pdf
+
 # make comprehension
 
 http://xpt.sourceforge.net/techdocs/nix/tool/make/mk07-Commandautogenconfigure/ar01s02.html
-
 
