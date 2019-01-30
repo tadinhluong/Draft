@@ -97,6 +97,8 @@ https://cs.uns.edu.ar/~ldm/mypage/data/rc/info/quagga.pdf
 
 https://wiki.gentoo.org/wiki/Quagga
 
+http://www.cs.virginia.edu/~cs458/material/zebra-manual-Sept2002.pdf
+
 # make comprehension
 
 http://xpt.sourceforge.net/techdocs/nix/tool/make/mk07-Commandautogenconfigure/ar01s02.html
