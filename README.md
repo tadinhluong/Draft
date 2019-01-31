@@ -103,3 +103,9 @@ http://www.cs.virginia.edu/~cs458/material/zebra-manual-Sept2002.pdf
 
 http://xpt.sourceforge.net/techdocs/nix/tool/make/mk07-Commandautogenconfigure/ar01s02.html
 
+
+# vty
+
+http://sup.xenya.si/sup/info/f5/BIG-IP/BIG-IP_V9+/AdvancedConfigurationGuides/Advanced%20Routing%20Module%20Command%20Reference%20Guides_ArchitectureAndDeveloperGuide_ZebOSArchDevGde.pdf
+
+
