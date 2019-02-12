@@ -1,5 +1,6 @@
 # Draft
 Refs:
+0. Cisco
 1. A10 Networks WAF, Load Balancer
 2. Arbor Networks
 3. Fortinet
@@ -7,6 +8,12 @@ Refs:
 5. F5 WAF
 
 ## Resource:
+
+# CLI basics:
+https://cuongquach.com/tu-hoc-ccna-cau-hinh-router-cisco-co-ban.html
+
+https://blogd.net/linux/qua-trinh-khoi-dong-he-dieu-hanh-linux/
+
 ### GA
 
 https://www.cc.gatech.edu/~asb/papers/chapters/
