@@ -17,9 +17,9 @@ https://blogd.net/linux/qua-trinh-khoi-dong-he-dieu-hanh-linux/
 
 https://www.nongnu.org/quagga/docs/docs-multi/index.html#SEC_Contents
 
-### GA
+# GNU AutoTool
 
-https://www.cc.gatech.edu/~asb/papers/chapters/
+http://inti.sourceforge.net/tutorial/libinti/autotoolsproject.html
 
 ### ASA
 
@@ -118,4 +118,8 @@ http://xpt.sourceforge.net/techdocs/nix/tool/make/mk07-Commandautogenconfigure/a
 
 http://sup.xenya.si/sup/info/f5/BIG-IP/BIG-IP_V9+/AdvancedConfigurationGuides/Advanced%20Routing%20Module%20Command%20Reference%20Guides_ArchitectureAndDeveloperGuide_ZebOSArchDevGde.pdf
 
+
+### linh tinh
+
+https://www.cc.gatech.edu/~asb/papers/chapters/
 
