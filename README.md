@@ -21,6 +21,9 @@ https://www.nongnu.org/quagga/docs/docs-multi/index.html#SEC_Contents
 
 http://inti.sourceforge.net/tutorial/libinti/autotoolsproject.html
 
+
+https://rizviof0.wordpress.com/2012/11/22/how-to-open-an-existing-autotools-project-in-eclipse-cdt/
+
 ### ASA
 
 https://github.com/nccgroup/asatools
