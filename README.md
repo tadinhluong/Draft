@@ -1,5 +1,6 @@
 # Draft
 Refs:
+http://librta.org/downloads/LAD.pdf
 
 0. Cisco
 1. A10 Networks WAF, Load Balancer
