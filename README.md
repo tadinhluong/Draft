@@ -147,4 +147,6 @@ https://www.cisco.com/c/dam/en/us/td/docs/security/content_security/virtual_appl
 
 https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/products/vam/vmware-virtual-appliance-solutions-white-paper.pdf
 
+http://www.pcworld.com.vn/articles/cong-nghe/ung-dung/2009/04/1193793/virtual-appliance-giai-phap-hieu-qua-cho-viec-phat-trien-va-phan-phoi-phan-mem/
+
 
