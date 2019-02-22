@@ -158,3 +158,5 @@ https://software.intel.com/en-us/articles/data-plane-development-kit-dpdk-gettin
 
 
 https://pktgen-dpdk.readthedocs.io/en/latest/cli_lib.html
+
+https://doc.dpdk.org/guides/linux_gsg/sys_reqs.html#linux-gsg-hugepages
