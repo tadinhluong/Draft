@@ -151,3 +151,9 @@ https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/products/vam/v
 http://www.pcworld.com.vn/articles/cong-nghe/ung-dung/2009/04/1193793/virtual-appliance-giai-phap-hieu-qua-cho-viec-phat-trien-va-phan-phoi-phan-mem/
 
 
+
+# dpdk
+
+https://software.intel.com/en-us/articles/data-plane-development-kit-dpdk-getting-started
+
+
