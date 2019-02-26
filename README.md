@@ -2,6 +2,10 @@
 Refs:
 http://librta.org/downloads/LAD.pdf
 
+http://www.linuxzasve.com/preuzimanje/TLCL-09.12.pdf
+
+http://linuxcommand.org/lc3_writing_shell_scripts.php
+
 0. Cisco
 1. A10 Networks WAF, Load Balancer
 2. Arbor Networks
