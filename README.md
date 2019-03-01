@@ -1,5 +1,10 @@
 # Draft
 Refs:
+
+https://sort.veritas.com/public/documents/ITRP/1.0/windowsandunix/productguides/html/deployment/apbs02.htm
+
+https://sort.veritas.com/public/documents/itrp/2.1/windowsandunix/productguides/html/deployment/apbs02.htm
+
 https://src.libcode.org/pkun/klish/src/master
 
 http://librta.org/downloads/LAD.pdf
